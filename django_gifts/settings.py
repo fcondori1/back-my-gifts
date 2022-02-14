@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'users',
     'rest_framework',
     'rest_framework.authtoken',
+    'gifts',
 ]
 
 MIDDLEWARE = [
@@ -156,4 +157,3 @@ DJOSER = {
         'user': 'users.serializers.UserCreateSerializer'
     }
 }
-
