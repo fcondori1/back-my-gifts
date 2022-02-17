@@ -13,6 +13,10 @@ gunicorn = "*"
 djoser = "*"
 django-cors-headers = "*"
 whitenoise = "*"
+djangorestframework = "*"
+pillow = "*"
+boto3 = "*"
+django-storages = "*"
 
 [requires]
 python_version = "3.9.5"
