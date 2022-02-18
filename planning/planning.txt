@@ -1,0 +1,11 @@
+- Install Backend dependencies: 
+
+    - django
+    - corsheaders
+    - npm
+    - djoser
+    - rest
+    - rest-framework
+    - whitenoise
+    - AWS
+    - Heroku
